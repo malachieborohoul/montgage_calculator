@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
+(https://github.com/malachieborohoul/montgage_calculator/blob/main/Screenshot_2022.10.22_07.45.17.358.png)
+(https://github.com/malachieborohoul/montgage_calculator/blob/main/Screenshot_2022.10.22_07.45.21.575.png)
